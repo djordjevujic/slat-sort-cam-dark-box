@@ -1,0 +1,217 @@
+Index	Name	Description	File Name	Quantity
+1	Tslot20_heigh		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/T-Slot_20_height.FCStd	4
+2	Tslot20_len		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/T-Slot_20_length.FCStd	4
+3	Tslot20_wid		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/T-Slot_20_width.FCStd	4
+4	Part_Bracket		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/2020-corner-bracket.FCStd	16
+4.1	Body		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/2020-corner-bracket.FCStd	1
+5	T-Nut_2020_M5		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/T-nut_20.FCStd	56
+6	asm_roof_holder		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	1
+6.1	asm_roof_holder		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/roof_holder_asm.FCStd	1
+6.1.1	roof_holder		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/roof_holder.FCStd	2
+6.1.2	Hex socket countersunk head screw ISO 10642 M5 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	4
+7	asm_roof_holder001		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	1
+7.1	asm_roof_holder		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/roof_holder_asm.FCStd	1
+7.1.1	roof_holder		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/roof_holder.FCStd	2
+7.1.2	Hex socket countersunk head screw ISO 10642 M5 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	4
+8	asm_roof_holder002		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	1
+8.1	asm_roof_holder		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/roof_holder_asm.FCStd	1
+8.1.1	roof_holder		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/roof_holder.FCStd	2
+8.1.2	Hex socket countersunk head screw ISO 10642 M5 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	4
+9	asm_roof_holder003		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	1
+9.1	asm_roof_holder		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/roof_holder_asm.FCStd	1
+9.1.1	roof_holder		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/roof_holder.FCStd	2
+9.1.2	Hex socket countersunk head screw ISO 10642 M5 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	4
+10	asm_roof		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	1
+10.1	asm_roof		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_roof.FCStd	1
+10.1.1	plate_roof		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/plate_roof.FCStd	2
+10.1.2	linear_slide_12		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/linear_slide.FCStd	4
+10.1.3	asm_cam_holder		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_cam_holder.FCStd	2
+10.1.3.1	cam_holder_plate		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/cam_holder/cam_holder_plate.FCStd	1
+10.1.3.2	asm_SHF		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_cam_holder.FCStd	1
+10.1.3.2.1	asm_SHF		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_shf.FCStd	1
+10.1.3.2.1.1	SHF12		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/linear-bearing-shaft-support-shf12-1.snapshot.1/SHF_12.FCStd	2
+10.1.3.2.1.2	Hex socket head cap screw DIN 912 M4 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	2
+10.1.3.2.1.3	Hex socket head cap screw DIN 912 M5 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	8
+10.1.3.3	asm_SHF001		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_cam_holder.FCStd	1
+10.1.3.3.1	asm_SHF		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_shf.FCStd	1
+10.1.3.3.1.1	SHF12		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/linear-bearing-shaft-support-shf12-1.snapshot.1/SHF_12.FCStd	2
+10.1.3.3.1.2	Hex socket head cap screw DIN 912 M4 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	2
+10.1.3.3.1.3	Hex socket head cap screw DIN 912 M5 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	4
+10.1.3.4	asm_rpi		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_cam_holder.FCStd	1
+10.1.3.4.1	asm_rpi		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_rpi.FCStd	1
+10.1.3.4.1.1	Raspberry Pi 4 Model B		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	2
+10.1.3.4.1.1.1	PCB, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.2	Broadcom BCM2711B0 CPU, RPi4ModelB002		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.2.1	Broadcom BCM2711B0 CPU, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.2.2	Broadcom BCM2711B0 CPU, RPi4ModelB001		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.3	2.54 mm DUPONT MALE PIN HEADER, POE, 2X2, RPi4ModelB005		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.3.1	2.54 mm DUPONT MALE PIN HEADER, POE, 2X2, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.3.2	2.54 mm DUPONT MALE PIN HEADER, POE, 2X2, RPi4ModelB001		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.3.3	2.54 mm DUPONT MALE PIN HEADER, POE, 2X2, RPi4ModelB002		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.3.4	2.54 mm DUPONT MALE PIN HEADER, POE, 2X2, RPi4ModelB003		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.3.5	2.54 mm DUPONT MALE PIN HEADER, POE, 2X2, RPi4ModelB004		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB041		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.1	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.2	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB001		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.3	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB002		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.4	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB003		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.5	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB004		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.6	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB005		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.7	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB006		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.8	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB007		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.9	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB008		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.10	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB009		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.11	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB010		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.12	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB011		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.13	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB012		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.14	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB013		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.15	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB014		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.16	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB015		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.17	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB016		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.18	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB017		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.19	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB018		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.20	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB019		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.21	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB020		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.22	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB021		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.23	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB022		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.24	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB023		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.25	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB024		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.26	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB025		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.27	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB026		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.28	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB027		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.29	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB028		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.30	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB029		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.31	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB030		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.32	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB031		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.33	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB032		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.34	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB033		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.35	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB034		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.36	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB035		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.37	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB036		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.38	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB037		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.39	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB038		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.40	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB039		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.4.41	2.54 mm DUPONT MALE PIN HEADER, IO, 2X20, RPi4ModelB040		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5	Camera Connector, RPi4ModelB017		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.1	Camera Connector, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.2	Camera Connector, RPi4ModelB001		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.3	Camera Connector, RPi4ModelB002		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.4	Camera Connector, RPi4ModelB003		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.5	Camera Connector, RPi4ModelB004		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.6	Camera Connector, RPi4ModelB005		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.7	Camera Connector, RPi4ModelB006		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.8	Camera Connector, RPi4ModelB007		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.9	Camera Connector, RPi4ModelB008		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.10	Camera Connector, RPi4ModelB009		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.11	Camera Connector, RPi4ModelB010		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.12	Camera Connector, RPi4ModelB011		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.13	Camera Connector, RPi4ModelB012		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.14	Camera Connector, RPi4ModelB013		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.15	Camera Connector, RPi4ModelB014		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.16	Camera Connector, RPi4ModelB015		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.5.17	Camera Connector, RPi4ModelB016		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.6	Microphone Plug, RPi4ModelB005		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.6.1	Microphone Plug, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.6.2	Microphone Plug, RPi4ModelB001		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.6.3	Microphone Plug, RPi4ModelB002		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.6.4	Microphone Plug, RPi4ModelB003		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.6.5	Microphone Plug, RPi4ModelB004		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7	Display Connector, RPi4ModelB017		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.1	Display Connector, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.2	Display Connector, RPi4ModelB001		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.3	Display Connector, RPi4ModelB002		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.4	Display Connector, RPi4ModelB003		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.5	Display Connector, RPi4ModelB004		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.6	Display Connector, RPi4ModelB005		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.7	Display Connector, RPi4ModelB006		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.8	Display Connector, RPi4ModelB007		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.9	Display Connector, RPi4ModelB008		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.10	Display Connector, RPi4ModelB009		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.11	Display Connector, RPi4ModelB010		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.12	Display Connector, RPi4ModelB011		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.13	Display Connector, RPi4ModelB012		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.14	Display Connector, RPi4ModelB013		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.15	Display Connector, RPi4ModelB014		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.16	Display Connector, RPi4ModelB015		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.7.17	Display Connector, RPi4ModelB016		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.8	Gigabit Ethernet Port, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.9	Female Micro HDMI Connector, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.10	Female Micro HDMI Connector, RPi4ModelB001		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.11	Female USB Type C Connector, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.12	2X USB3.0 PORTS, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.13	91D77 D9WHV 778K, 4 GB LPDDR4 SDRAM, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.14	Cypress CYW43455 Wireless Module Cover, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.15	SD Card Slot, RPi4ModelB010		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.15.1	SD Card Slot, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.15.2	SD Card Slot, RPi4ModelB001		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.15.3	SD Card Slot, RPi4ModelB002		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.15.4	SD Card Slot, RPi4ModelB003		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.15.5	SD Card Slot, RPi4ModelB004		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.15.6	SD Card Slot, RPi4ModelB005		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.15.7	SD Card Slot, RPi4ModelB006		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.15.8	SD Card Slot, RPi4ModelB007		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.15.9	SD Card Slot, RPi4ModelB008		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.15.10	SD Card Slot, RPi4ModelB009		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.16	VIA VL805 PCIe USB 3.0 controller, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.17	2X USB2.0 PORTS, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.18	Broadcom BCM54213PE Gigabit Ethernet Transceiver, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.1.19	MxL7704 Universal PMIC, RPi4ModelB		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_4_model_b.FCStd	1
+10.1.3.4.1.2	Hex screw M2.5 04.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	8
+10.1.3.5	asm_cam_mount		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_cam_holder.FCStd	1
+10.1.3.5.1	asm_cam_mount		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_cam_mount.FCStd	1
+10.1.3.5.1.1	cam_holder_base		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/cam_holder/cam_holder_base.FCStd	2
+10.1.3.5.1.2	Raspberry Pi HQ Camera with cs mount lens v014		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	2
+10.1.3.5.1.2.1	Raspberry Pi HQ Camera with cs mount lens v3		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	1
+10.1.3.5.1.2.2	Raspberry Pi HQ Camera with cs mount lens v004		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	1
+10.1.3.5.1.2.3	Raspberry Pi HQ Camera with cs mount lens v005		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	1
+10.1.3.5.1.2.4	Raspberry Pi HQ Camera with cs mount lens v006		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	1
+10.1.3.5.1.2.5	Raspberry Pi HQ Camera with cs mount lens v007		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	1
+10.1.3.5.1.2.6	Raspberry Pi HQ Camera with cs mount lens v008		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	1
+10.1.3.5.1.2.7	Raspberry Pi HQ Camera with cs mount lens v009		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	1
+10.1.3.5.1.2.8	Raspberry Pi HQ Camera with cs mount lens v010		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	1
+10.1.3.5.1.2.9	Raspberry Pi HQ Camera with cs mount lens v011		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	1
+10.1.3.5.1.2.10	Raspberry Pi HQ Camera with cs mount lens v012		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	1
+10.1.3.5.1.2.11	Raspberry Pi HQ Camera with cs mount lens v013		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/raspberry_pi_camera.FCStd	1
+10.1.3.5.1.3	Hex screw M2.5 04.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	8
+10.1.3.5.1.4	Hex screw M4 10.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	8
+10.1.3.6	plate_holder		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/plate_holder.FCStd	4
+10.1.4	asm_SHF002		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_roof.FCStd	1
+10.1.4.1	asm_SHF		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_shf.FCStd	1
+10.1.4.1.1	SHF12		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/linear-bearing-shaft-support-shf12-1.snapshot.1/SHF_12.FCStd	2
+10.1.4.1.2	Hex socket head cap screw DIN 912 M4 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	2
+10.1.4.1.3	Hex socket head cap screw DIN 912 M5 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	4
+10.1.5	asm_SHF003		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_roof.FCStd	1
+10.1.5.1	asm_SHF		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_shf.FCStd	1
+10.1.5.1.1	SHF12		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/linear-bearing-shaft-support-shf12-1.snapshot.1/SHF_12.FCStd	2
+10.1.5.1.2	Hex socket head cap screw DIN 912 M4 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	2
+10.1.5.1.3	Hex socket head cap screw DIN 912 M5 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	4
+10.1.6	Hexagonal Nut M5_CBALN5		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/nuts_hexagonal.FCStd	8
+10.1.7	Hexagonal Nut M4_CBALN4		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/nuts_hexagonal.FCStd	8
+10.2	asm_SHF002		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	1
+10.2.1	asm_SHF002		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_roof.FCStd	1
+10.2.1.1	asm_SHF		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_shf.FCStd	1
+10.2.1.1.1	SHF12		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/linear-bearing-shaft-support-shf12-1.snapshot.1/SHF_12.FCStd	3
+10.2.1.1.2	Hex socket head cap screw DIN 912 M4 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	3
+10.2.1.1.3	Hex socket head cap screw DIN 912 M5 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	6
+10.3	asm_SHF003		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	1
+10.3.1	asm_SHF003		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_roof.FCStd	1
+10.3.1.1	asm_SHF		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_shf.FCStd	1
+10.3.1.1.1	SHF12		/home/djordje/Desktop/slat-sort-cam-dark-box/downloads/linear-bearing-shaft-support-shf12-1.snapshot.1/SHF_12.FCStd	3
+10.3.1.1.2	Hex socket head cap screw DIN 912 M4 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	3
+10.3.1.1.3	Hex socket head cap screw DIN 912 M5 15.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	6
+11	asm_plate_front_back		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	1
+11.1	asm_plate_front_back		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_plate_front_back.FCStd	1
+11.1.1	plate_front_back		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/plate_front_back.FCStd	2
+11.1.2	Hex screw M5 10.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	41
+12	asm_plate_front_back001		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	1
+12.1	asm_plate_front_back		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_plate_front_back.FCStd	1
+12.1.1	plate_front_back		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/plate_front_back.FCStd	2
+12.1.2	Hex screw M5 10.0		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/bolts.FCStd	8
+13	asm_plate_side		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	1
+13.1	asm_plate_side		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_plate_side.FCStd	1
+13.1.1	plate_side		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/plate_side.FCStd	2
+13.1.2	TAH15-M5-L6		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/TAH15_M5_L6.FCStd	8
+14	asm_plate_side001		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/dbox_asm.FCStd	1
+14.1	asm_plate_side		/home/djordje/Desktop/slat-sort-cam-dark-box/assembly/asm_plate_side.FCStd	1
+14.1.1	plate_side		/home/djordje/Desktop/slat-sort-cam-dark-box/parts/plate_side.FCStd	2
+14.1.2	TAH15-M5-L6		/home/djordje/Desktop/slat-sort-cam-dark-box/secondary/TAH15_M5_L6.FCStd	8
